@@ -1,4 +1,4 @@
-# Homework 6 - Dimension Reduction and Fast Exponential Transform
+# Homework 7 - Monte Carlo and Fast Exponential Transform
 
 In this homework, you will find the questions in [answers.ipynb](answers.ipynb).  This is convenient for displaying math equations. You can use [answers.ipynb](answers.ipynb) for written answers and running simulations/displaying plots.
 
