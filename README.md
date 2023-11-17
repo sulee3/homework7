@@ -6,7 +6,7 @@ You can run
 ```
 conda install --file requirements.txt
 ```
-to install the packages in [`requirements.txt`](requirements.txt). Furthermore, you should install appropriate packages as needed in your answers file even if the packages are not contained within requirements.txt.
+to install the packages in [`requirements.txt`](requirements.txt). Furthermore, you should install additional packages if needed in your answers file even if the packages are not contained within requirements.txt.
 
 ## Important Information
 
