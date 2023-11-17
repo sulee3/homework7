@@ -6,14 +6,12 @@ You can run
 ```
 conda install --file requirements.txt
 ```
-to install the packages in [`requirements.txt`](requirements.txt)
+to install the packages in [`requirements.txt`](requirements.txt). Furthermore, you should install appropriate packages as needed in your answers file even if the packages are not contained within requirements.txt.
 
 ## Important Information
 
-This homework is a short one to give you time to work on your project.
-
 ### Due Date
-This assignment is due Thursday, November 16 at 10:00 pm Chicago time.
+This assignment is due Thursday, November 23 at 10:00 pm Chicago time.
 
 ### Grading Rubric
 
@@ -21,11 +19,12 @@ The following rubric will be used for grading.
 
 |  | Total |
 |:-:|:-:|
-| Problem 0 | /25 |
+| Problem 0 | /45 |
+| Problem 1 | /30 |
 
-Correctness will be based on code (i.e. did you provide was was asked for) and the content of [`answers.ipynb`](answers.ipynb).
+Correctness will be based on code (i.e. did you provide was was asked for) and the content of [`answers.ipynb`](answers.ipynb). Make sure to back up any arguments made with scientifically rigorous results and arguments.
 
-To get full points on style you should use comments to explain what you are doing in your code and write docstrings for your functions. In other words, make your code readable and understandable.
+To get full points on style you should use comments to explain what you are doing in your code and write docstrings for your functions. In other words, make your code readable and understandable. Furthermore, use appropriate variable names, e.g. not too long but descriptive.
 
 ### Autograder
 
