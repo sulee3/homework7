@@ -11,7 +11,7 @@ to install the packages in [`requirements.txt`](requirements.txt). Furthermore, 
 ## Important Information
 
 ### Due Date
-This assignment is due Thursday, November 23 at 10:00 pm Chicago time.
+This assignment is due Thursday, November 30 at 10:00 pm Chicago time.
 
 ### Grading Rubric
 
